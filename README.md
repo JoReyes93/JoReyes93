@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 ### I am currently learning and working on some personal projects with python, I love python language, I am learning Javascript, html, css some frameworks such as:
 ### Django and Flask, I am taking a datascience course, I like statistics
-### I worked as a technical support for a company called PBS Nicaragua
-### I would like to get experience with programming and collaborate with projects, payment doesn't matter
+### I would like to get experience with programming and collaborate with projects
